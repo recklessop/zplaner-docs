@@ -1,4 +1,5 @@
 # zPlanner Docs
+[![Build Status](https://dev.azure.com/jpaul0929/zplanner-docs/_apis/build/status/zplanner-docs-ci?branchName=master)](https://dev.azure.com/jpaul0929/zplanner-docs/_build/latest?definitionId=2&branchName=master)
 ## Description
 This is the zPlanner documentation project. It contains markdown files for the zPlanner documentation website.
 
