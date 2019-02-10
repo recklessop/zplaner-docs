@@ -2,11 +2,6 @@
   "build": {
     "content": [
       {
-        "files": [ "**/*.yml" ],
-        "src": "obj/api",
-        "dest": "api"
-      },
-      {
         "files": [ "install/**/*.md", "*.md", "toc.yml", "remove/**/*.md", "use/**/*.md" ]
       }
     ],
