@@ -1,9 +1,11 @@
 ﻿- name: Home
   href: index.md
-- name: Articles
-  href: articles/
-  homepage: articles/docfx_getting_started.md
-- name: API Documentation
-  href: obj/api/
+- name: Install
+  href: install/
+  homepage: install/zplanner_getting_started.md
+- name: Usage
+  href: use/
+  homepage: install/zplanner_getting_started.md
 - name: REST API
-  href: restapi/
+  href: remove/
+  homepage: install/zplanner_getting_started.md

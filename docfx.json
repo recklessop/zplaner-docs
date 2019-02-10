@@ -1,16 +1,4 @@
 {
-  "metadata": [
-    {
-      "src": [
-        {
-          "files": [ "**/*.sln", "src/DotnetNew/*.csproj" ],
-          "exclude": [ "**/bin/**", "**/obj/**" ],
-          "src": "src"
-        }
-      ],
-      "dest": "obj/api"
-    }
-  ],
   "build": {
     "content": [
       {
@@ -19,15 +7,14 @@
         "dest": "api"
       },
       {
-        "files": [ "articles/**/*.md", "*.md", "toc.yml", "restapi/**" ]
+        "files": [ "install/**/*.md", "*.md", "toc.yml", "remove/**/*.md", "use/**/*.md" ]
       }
     ],
     "resource": [
       {
-        "files": [ "articles/images/**"]
+        "files": [ "install/images/**", "remove/images/**", "use/images/**"]
       }
     ],
-    "overwrite": "specs/*.md",
     "globalMetadata": {
       "_appTitle": "zPlanner Documentation",
       "_enableSearch": true
