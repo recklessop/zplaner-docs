@@ -3,9 +3,9 @@
 - name: Install
   href: install/
   homepage: install/zplanner_getting_started.md
-- name: Usage
+- name: Use
   href: use/
-  homepage: install/zplanner_getting_started.md
-- name: REST API
+  homepage: use/zplanner_usage.md
+- name: Remove
   href: remove/
-  homepage: install/zplanner_getting_started.md
+  homepage: remove/zplanner_removal.md
