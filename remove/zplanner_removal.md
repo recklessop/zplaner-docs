@@ -76,7 +76,7 @@ We use *xUnit.net* for all unit testing.
 
 Coding Standards
 ------------------
-Please refer to [C# Coding standards](csharp_coding_standards.md) for detailed guideline for C# coding standards.
+Please refer to C# Coding standards for detailed guideline for C# coding standards.
 
 **TODO** Template Coding standards
 
