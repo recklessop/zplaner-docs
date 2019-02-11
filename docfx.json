@@ -7,7 +7,7 @@
     ],
     "resource": [
       {
-        "files": [ "install/images/**", "remove/images/**", "use/images/**", "*.png"]
+        "files": [ "install/images/**", "remove/images/**", "use/images/**", "*.png", "*.ico"]
       }
     ],
     "globalMetadata": {

@@ -17,7 +17,7 @@ It should be noted that zPlanner is not supported by Zerto Support. It is a free
     - Used for issues pretaining to what zPlanner does (or doesnt) do
     - Recommended for feature requests, bugs, and larger asks.
 2. Open a documentation issue
-    - If you spot an issue with the zPlanner documentation you can submit a pull request on this repo
+    - If you spot an issue with the zPlanner documentation you can submit a pull request on this repo, use the "Improve this Doc" link on the right side column on each page.
 3. [JPaul.me Drift Chat](http://jpaul.me)
     - For shorter requests or quick questions please use the Drift chat box on my blog.
 
