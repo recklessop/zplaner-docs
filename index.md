@@ -1,3 +1,4 @@
+![zplanner](zplannerlogo.png)
 # zPlanner Docs
 
 ## Description
