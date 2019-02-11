@@ -16,7 +16,7 @@ zPlanner will require several things in order to do its job. A place to run, and
 
 ## Downloading the zPlanner Appliance
 
-As stated before, zPlanner is deployed via a virtual appliance. The OVA file that you can download will run on ESXi 4.0 or newer, it has not been tested on non-esxi platforms.
+zPlanner is deployed via a virtual appliance. The OVA file that you can download will run on ESXi 4.0 or newer, it has not been tested on non-esxi platforms.
 
 To download the zPlanner Virtual Appliance go to https://www.jpaul.me/getzplanner
 
