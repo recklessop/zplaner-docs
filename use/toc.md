@@ -1,3 +1,4 @@
-﻿# [Getting Started](docfx_getting_started.md)
-# [Engineering Guidelines](engineering_guidelines.md)
-# [CSharp Coding Standards](csharp_coding_standards.md)
+﻿# [Using zPlanner](zplanner_usage.md)
+# [VM Selection](vm_selection.md)
+# [Viewing Stats](Grafana.md)
+# [Exporting Stats](stats_export.md)

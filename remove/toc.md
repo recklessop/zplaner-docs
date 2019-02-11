@@ -1,3 +1,2 @@
-﻿# [Getting Started](docfx_getting_started.md)
-# [Engineering Guidelines](engineering_guidelines.md)
-# [CSharp Coding Standards](csharp_coding_standards.md)
+﻿# [Removing zPlanner](zplanner_removal.md)
+# [Stats Export](../use/stats_export.md)

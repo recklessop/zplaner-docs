@@ -7,14 +7,14 @@
     ],
     "resource": [
       {
-        "files": [ "install/images/**", "remove/images/**", "use/images/**", "*.png"]
+        "files": [ "install/images/**", "remove/images/**", "use/images/**", "*.png", "*.ico"]
       }
     ],
     "globalMetadata": {
       "_appTitle": "zPlanner Documentation",
       "_enableSearch": true,
-      "_appLogoPath": "/zplannerlogo.png",
-      "_appFaviconPath": "/favicon.ico"
+      "_appLogoPath": "./zplannerheader.png",
+      "_appFaviconPath": "./favicon.ico"
     },
     "markdownEngineName": "markdig",
     "dest": "_site",
