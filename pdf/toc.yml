@@ -1,0 +1,11 @@
+﻿- name: Home
+  href: index.md
+- name: Install
+  href: install/
+  homepage: install/zplanner_getting_started.md
+- name: Use
+  href: use/
+  homepage: use/zplanner_usage.md
+- name: Remove
+  href: remove/
+  homepage: remove/zplanner_removal.md

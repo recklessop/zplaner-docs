@@ -13,8 +13,8 @@
     "globalMetadata": {
       "_appTitle": "zPlanner Documentation",
       "_enableSearch": true,
-      "_appLogoPath": "/zplannerlogo.png",
-      "_appFaviconPath": "/favicon.ico"
+      "_appLogoPath": "./zplannerlogo.png",
+      "_appFaviconPath": "./favicon.ico"
     },
     "markdownEngineName": "markdig",
     "dest": "_site",
