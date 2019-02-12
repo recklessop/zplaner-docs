@@ -10,15 +10,15 @@ Once the appliance has booted up and you are at the console menu, select option 
 
 ### Unable to connect to vCenter
 
-![no dhcp](images/vcenter-invalid-hostname.png)
+![vcenter hostname](images/vcenter-invalid-hostname.png)
 If you are experiencing a
 
 ### Invalid vCenter Credentials
 
-![no dhcp](images/vcenter-creds.png)
+![vcenter credentials](images/vcenter-creds.png)
 If you are experiencing a
 
 ### Only a partial VM list is available in Web UI
 
-![no dhcp](images/vm-list-partial.png)
+![partial vm list](images/vm-list-partial.png)
 If you are experiencing a
