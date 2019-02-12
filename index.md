@@ -1,7 +1,7 @@
 ![zplanner](./zplanner.png)
 # zPlanner Docs
 
-## Description
+## About zPlanner
 
 zPlanner is a tool that is designed to monitor disk change rates to VMware virtual machines. zPlanner leverages the PowerCLI interface to get data from vCenter and store it in a local MySQL database. This data is then manipulated and presented using Grafana.
 
@@ -9,23 +9,38 @@ The intended purpose of zPlanner is to help architect the number of Zerto Cloud 
 
 zPlanner is a combination of two parts, there is code that makes zPlanner work (which comes from this GitHub Repo), as well as a virtual machine that has the required packages to run the code from GitHub. In order to deploy zPlanner you should download the zPlanner appliance and it will download the latest zPlanner updates during configuration.
 
+## What does zPlanner provide?
+
+|  Feature  |  Details |
+|----|---|
+| VM Change Rate | zPlanner uses metrics captured from VMware vCenter to display actual VM disk change rates, no more guessing. |
+| Replication Bandwidth | Based on change rates and compression assumptions, zPlanner displays how much bandwidth you would need to replicate a workload. |
+| Hot Spot Identification | Identify which VMs are causing the most data change |
+| Zerto Journal size Estimation | Not sure whether to keep 1 day or 10 days of journal? There is a zPlanner dashboard for that! |
+| Zerto Cloud Appliances | Easily size your workload to the proper number of Zerto Cloud Appliances. Based on your change rate, zPlanner estimates the number of ZCAs needed. |
+
+## Next Steps
+
+- [Download and install zPlanner](zplanner_getting_started.md)
+- [Learn how to read data in Grafana](zplanner_usage.md)
+- [Remove zPlanner when your done](remove/zplanner_removal.md)
+
 ## Support
 
 It should be noted that zPlanner is not supported by Zerto Support. It is a free tool created by [Justin Paul](https://github.com/recklessop), and supported on a best effort basis. To request support you have three options:
 
 1. [Open zPlanner GitHub Issue](https://github.com/zerto-ta-Public/zplanner/issues)
-    - Used for issues pretaining to what zPlanner does (or doesnt) do
+    - Used for issues pertaining to what zPlanner does (or doesn't) do
     - Recommended for feature requests, bugs, and larger asks.
 2. Open a documentation issue
     - If you spot an issue with the zPlanner documentation you can submit a pull request on this repo, use the "Improve this Doc" link on the right side column on each page.
 3. [JPaul.me Drift Chat](http://jpaul.me)
     - For shorter requests or quick questions please use the Drift chat box on my blog.
 
-
 ## Contributing
 
-* Submit a pull request
-* open an issue
+- Submit a pull request
+- open an issue
 
 ## Further information about zPlanner
 

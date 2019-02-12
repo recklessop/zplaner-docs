@@ -1,4 +1,4 @@
-# Getting Started with `zplanner`
+# Getting Started with `zPlanner`
 
 ## Getting Started
 
