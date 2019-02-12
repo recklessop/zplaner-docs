@@ -14,7 +14,10 @@
       "_appTitle": "zPlanner Documentation",
       "_enableSearch": true,
       "_appLogoPath": "./zplannerheader.png",
-      "_appFaviconPath": "./favicon.ico"
+      "_appFaviconPath": "./favicon.ico",
+      "feedback_system": "GitHub", 
+      "feedback_github_repo": "recklessop/zplanner-docs", 
+      "feedback_product_url": "https://github.com/recklessop/zplanner-docs/issues"
     },
     "markdownEngineName": "markdig",
     "dest": "_site",
