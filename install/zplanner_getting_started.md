@@ -68,5 +68,3 @@ From this point forward we can proceed to the Web UI of zPlanner. simply go to h
 From here we will need to select the VMs to monitor. In the main menu ribbon select "Monitor VMs" and then pick "Add VMs"
 
 From the web page select which VMs you wish to monitor and click the "Monitor" button, you can repeat this step as many times as needed.
-
-# Hi Ed!
